@@ -1,0 +1,4 @@
+instance,n_nodes,n_arcs,FW_iter,FW_iter_to_eps,FW_time_to_eps,AFW_iter,AFW_iter_to_eps,AFW_time_to_eps,FW_time,AFW_time,FW_true_gap,AFW_true_gap,FW_status,AFW_status,AFW_n_drop,AFW_max_actset
+m=1000,89,1000,2000,,,500,,,4.283,2.62,5.09572990851792e-05,3.893904773012167e-06,stopped (max_iter),stopped (max_iter),11,103
+m=2000,126,2000,2000,,,500,327.0,2.233220199990683,8.321,3.733,3.6408083109835746e-05,1.089786942831683e-08,stopped (max_iter),converged,13,186
+m=3000,155,3000,2000,,,500,450.0,5.797363399999085,12.324,6.633,6.987697230590347e-05,8.411990875451335e-07,stopped (max_iter),converged,4,273

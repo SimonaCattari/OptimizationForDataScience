@@ -1,0 +1,4 @@
+Istanza,Gurobi tempo (s),FW tempo (s),AFW tempo (s),FW iter,AFW iter,FW true gap,AFW true gap,FW status,AFW status,FW / Gurobi,AFW / Gurobi
+m=1000,6.137,4.372,16.862,2000,2000,5.09572990851792e-05,6.880485987025243e-09,stopped (max_iter),stopped (max_iter),0.7,2.7
+m=2000,29.418,10.436,10.464,2000,870,3.6408083109835746e-05,9.158288059825083e-11,stopped (max_iter),found optimal,0.4,0.4
+m=3000,59.637,13.585,19.297,2000,926,6.987697230590347e-05,1.7808140397986595e-07,stopped (max_iter),stopped (active set explosion),0.2,0.3
