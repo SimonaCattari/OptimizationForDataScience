@@ -49,7 +49,6 @@ Entrambe le implementazioni sono validate confrontandole con il solver commercia
 
 ## Struttura del repository
 
-OPT_project39Cattari-Trivelli/
 
  OPT_project39Cattari-Trivelli/
 ├── file_python/
@@ -71,7 +70,6 @@ OPT_project39Cattari-Trivelli/
 │   └── *.csv                    # Tabelle riassuntive
 └── output_terminale/            # Log di esecuzione degli esperimenti
 
-> Adatta questa sezione alla struttura reale del repository.
 
 ## Strumenti utilizzati
 
