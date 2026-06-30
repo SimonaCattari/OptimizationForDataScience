@@ -49,8 +49,8 @@ Entrambe le implementazioni sono validate confrontandole con il solver commercia
 
 ## Struttura del repository
 
-
- OPT_project39Cattari-Trivelli/
+```
+OPT_project39Cattari-Trivelli/
 ├── file_python/
 │   ├── esperimenti/
 │   │   ├── 1_FW-AFW.py         # Sezione 5.1 — confronto diretto FW vs AFW
@@ -69,6 +69,7 @@ Entrambe le implementazioni sono validate confrontandole con il solver commercia
 │   ├── plots/                   # Grafici (.png) usati nel report
 │   └── *.csv                    # Tabelle riassuntive
 └── output_terminale/            # Log di esecuzione degli esperimenti
+```
 
 
 ## Strumenti utilizzati
